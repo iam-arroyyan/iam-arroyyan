@@ -2,7 +2,7 @@
 
 # Hi, I'm Arroyyan Syahru Romadhoni Roziqi
 
-**Information Technology Student | IoT Engineer | Cybersecurity Enthusiast**
+**Information Technology Student | IoT Engineer | Full-Stack Developer **
 
 ![GitHub](https://img.shields.io/badge/GITHUB-ARROYYAN-000000?style=for-the-badge&logo=github&labelColor=555555)
 ![Telkom University](https://img.shields.io/badge/TELKOM_UNIVERSITY-SURABAYA-E3242B?style=for-the-badge&labelColor=555555)
