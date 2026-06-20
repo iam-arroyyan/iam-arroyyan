@@ -1,5 +1,16 @@
-# Hi there, I'm Arroyyan Syahru Romadhoni Roziqi! 👋
+<div align="center">
 
+# Hi, I'm Arroyyan Syahru Romadhoni Roziqi
+
+**Information Technology Student | IoT Engineer | Cybersecurity Enthusiast**
+
+![GitHub](https://img.shields.io/badge/GITHUB-ARROYYAN-000000?style=for-the-badge&logo=github&labelColor=555555)
+![Telkom University](https://img.shields.io/badge/TELKOM_UNIVERSITY-SURABAYA-E3242B?style=for-the-badge&labelColor=555555)
+![Major](https://img.shields.io/badge/MAJOR-INFORMATION_TECHNOLOGY-007EC6?style=for-the-badge&labelColor=555555)
+
+---
+
+</div>
 I'm an Information Technology student at Telkom University Surabaya with a strong passion for Software Development, Internet of Things (IoT), and Cybersecurity. I am constantly building and researching new technologies, with a long-term goal of stepping into a Chief Technology Officer (CTO) role.
 
 ### 🚀 What I'm Currently Focusing On
